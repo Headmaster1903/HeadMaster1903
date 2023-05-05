@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-My name is **Damilola Samuel** aka `HeadMaster 😉`
+My name is **HeadMaster** aka `HM 😉`
 
-I am a professional Full Stack Web Developer. And i am love spending my time learning new things and also playing video games.
+I am a professional Full Stack Web Developer. And i love spending my time learning new things and also playing video games.
 
 Here are some things to know about me:
 
